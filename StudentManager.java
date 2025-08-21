@@ -1,13 +1,14 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
-package seisani10.studentmanager;
+package seisani10.main;
 
 /**
  *
  * @author SEISANI GUNDO JR
- */
+ */  
+
 
 
 
@@ -248,7 +249,6 @@ public void studentReport() {
     }
 
 }
-
 
 
 
